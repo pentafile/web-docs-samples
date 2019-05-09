@@ -1,10 +1,11 @@
-# Pentafile web samples
+# Pentafile web projects implementation
 
-This repo contains web application samples for [Pentafile](https://pentafile.com).
+This repo contains samples of how to implement [Pentafile](https://pentafile.com) on your web projects.
 
 For more detailed introduction to a product, check the README.md in the
 corresponding folder.
 
+*Read this in other languages: [English](README.md), [Spanish](README.es.md)*
 ## Licensing
 
 * See [LICENSE](LICENSE)
