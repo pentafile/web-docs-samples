@@ -1,4 +1,4 @@
-# Pentafile web projects samples
+# Pentafile web project samples
 
 This repo contains samples of how to implement [Pentafile](https://pentafile.com) on your web projects.
 
